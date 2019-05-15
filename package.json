@@ -1,0 +1,12 @@
+{
+  "name": "@bhavya_w/my-cli",
+  "version": "0.1.1",
+  "description": "My personal cli toolkit",
+  "main": "index.js",
+  "author": "Bhavya Wadhwa",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "oclif": "^1.13.1"
+  }
+}
